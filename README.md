@@ -12,3 +12,6 @@ reconfigured horiseons marketing website to have code appear more visually appea
 
 ##git clone
 https://github.com/kdingman/horiseon_marketing.git
+
+## Contribution
+Made with ❤️ by Kelly Dingman
